@@ -1,7 +1,7 @@
 ## Ejercicio React (Componentes, Props, State, Eventos, Keys)
 
 1. Paso 1: 
-    - Vamos a crear una ficha de empleado que consiste en un h1 con el nombre y un h2 con el cargo
+    - Vamos a crear una ficha de empleado que consiste en un `<h1>` con el nombre y un `<h2>` con el cargo
     - Crear un componente ‘Empleado’ que incorpore esos elementos. Ponemos valores de ejemplo
     - Ese componente lo devolvemos en App
 
