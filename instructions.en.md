@@ -1,7 +1,7 @@
 ## Exercise React (Components, Props, State, Events, Keys)
 
 1. Step 1:
-     - We are going to create an employee file that consists of an h1 with the name and an h2 with the position
+     - We are going to create an employee file that consists of an <h1> with the name and an <h2> with the position
      - Create an 'Employee' component that incorporates these elements. We put example values
      - We return that component in the App
 
